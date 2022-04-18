@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivuvibhuti
+- 👋 Hi, I’m @shivuv
 - 👀 I’m interested in SONiC
 - 🌱 I’m currently learning SONiC
 - 💞️ I’m looking to collaborate on SONiC project
